@@ -6,7 +6,7 @@ Repository: `Faka-iAction/api-spring-public` (FAKA iAction platform, Spring Boot
 
 ## Status
 
-Scaffold only. Nothing is implemented yet.
+Not started. This backend is planned for after the pilot. Until then the reference implementation is [api-symfony-public](https://github.com/Faka-iAction/api-symfony-public), built against the API contract in [contracts-public](https://github.com/Faka-iAction/contracts-public).
 
 ## Visibility
 
